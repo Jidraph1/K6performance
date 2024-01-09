@@ -1,0 +1,2 @@
+assertions
+importing the check dependancy from k6 will help you write the assertions needed for your K6 tests
